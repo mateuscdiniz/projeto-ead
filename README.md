@@ -18,6 +18,7 @@ URL: localhost:5000
 # OBS: Não fiz o código em inglês pois o desafio estava em português.
 # OBS2: Criar um arquivo .env passando:
 DATABASE_URL = mongodb://localhost/projeto
+
 SERVER_PORT=5000
 
 
